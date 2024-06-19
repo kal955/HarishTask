@@ -947,6 +947,7 @@
         <members>Account.AccountSource</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
+        <members>Account.CI_Job_check__c</members>
         <members>Account.Description</members>
         <members>Account.Fax</members>
         <members>Account.Industry</members>
