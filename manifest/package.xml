@@ -32,6 +32,10 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Task__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>apexEmailNotifications</members>
         <name>ApexEmailNotifications</name>
     </types>
@@ -306,6 +310,7 @@
         <members>Task.RecurringTasks</members>
         <members>Task.TodaysTasks</members>
         <members>Task.UnscheduledTasks</members>
+        <members>Task__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
@@ -599,6 +604,7 @@
         <members>StreamingChannel</members>
         <members>TableauHostMapping</members>
         <members>Task</members>
+        <members>Task__c</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
         <members>User</members>
