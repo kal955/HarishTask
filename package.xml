@@ -2013,6 +2013,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>Task__c.Checking_Uat__c</members>
         <members>Task__c.hecking_in_Uat__c</members>
         <members>User.ManagerId</members>
         <members>User.copado__API_URL__c</members>
