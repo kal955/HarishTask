@@ -960,6 +960,7 @@
         <members>Account.Ownership</members>
         <members>Account.ParentId</members>
         <members>Account.Phone</members>
+        <members>Account.Production_org_to_hotfix__c</members>
         <members>Account.Rating</members>
         <members>Account.ShippingAddress</members>
         <members>Account.Sic</members>
