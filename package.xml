@@ -36,6 +36,10 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>Checking_for_Sh</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
         <members>apexEmailNotifications</members>
         <name>ApexEmailNotifications</name>
     </types>
@@ -979,6 +983,7 @@
         <members>Account.Tier</members>
         <members>Account.Type</members>
         <members>Account.Website</members>
+        <members>Account.checking_for_sh__c</members>
         <members>AccountContactRole.Role</members>
         <members>Asset.AccountId</members>
         <members>Asset.Address</members>
