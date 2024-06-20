@@ -861,6 +861,7 @@
     </types>
     <types>
         <members>Account-Formato de cuentas</members>
+        <members>Account-Shashank Task pagelayout</members>
         <members>Asset-Formato de activos</members>
         <members>AssetRelationship-Asset Relationship Layout</members>
         <members>AuthorizationForm-Authorization Form Layout</members>
